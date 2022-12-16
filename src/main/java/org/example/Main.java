@@ -19,7 +19,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         ArrayList<String> list = new ArrayList<>();
-        ArrayList<String> arrayList_2 = new ArrayList<>();
+        ArrayList<String> arrayList_2 = new ArrayList<>(); //ggg
         int size = 4;
         while (true) {
             System.out.println("\n----------Меню----------");
