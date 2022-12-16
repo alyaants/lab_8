@@ -17,7 +17,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
+        Scanner in = new Scanner(System.in); //12457qwert
         ArrayList<String> list = new ArrayList<>();
         ArrayList<String> arrayList_2 = new ArrayList<>(); //ggg
         int size = 4;
