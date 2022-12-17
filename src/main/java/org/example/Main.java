@@ -51,7 +51,7 @@ public class Main {
                                 list.add(word);
                             } else {
                                 list.remove(0);
-                                list.add(0, word);
+                                list.add(0, word);//sdfdgfhjhkl
                             }
                             break;
                         case "2":
