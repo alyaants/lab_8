@@ -20,7 +20,7 @@ public class Main {
         Scanner in = new Scanner(System.in); //12457qwert
         ArrayList<String> list = new ArrayList<>();
         ArrayList<String> arrayList_2 = new ArrayList<>(); //123 чсмсморло
-        int size = 4;
+        int size = 4; //qwrtct
         while (true) {
             System.out.println("\n----------Меню----------");
             System.out.println("1. Добавление и удаление объектов;");
