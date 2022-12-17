@@ -20,9 +20,9 @@ public class Main {
         Scanner in = new Scanner(System.in); //12457qwert
         ArrayList<String> list = new ArrayList<>();
         ArrayList<String> arrayList_2 = new ArrayList<>(); //123 чсмсморло
-        int size = 4;
+        int size = 4; //qwrtct
         while (true) {
-            System.out.println("\n----------Меню----------");
+            System.out.println("\n----------Меню----------"); ///sdfghnj
             System.out.println("1. Добавление и удаление объектов;");
             System.out.println("2. Поиск одинаковых элементов с подсчетом совпадений;");
             System.out.println("3. Выгрузка в XML-файл;");
@@ -34,7 +34,7 @@ public class Main {
             System.out.println("9. Просмотр;");
             System.out.println("10. Выход;");
             System.out.println("\nВаш выбор:");
-            String ch = in.nextLine();
+            String ch = in.nextLine(); //mycode
             switch (ch) {
                 case "1":
                     String word, ch2, number;
