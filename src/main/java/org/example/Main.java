@@ -34,7 +34,7 @@ public class Main {
             System.out.println("9. Просмотр;");
             System.out.println("10. Выход;");
             System.out.println("\nВаш выбор:");
-            String ch = in.nextLine();
+            String ch = in.nextLine(); //mycode
             switch (ch) {
                 case "1":
                     String word, ch2, number;
