@@ -38,7 +38,7 @@ public class Main {
             switch (ch) {
                 case "1":
                     String word, ch2, number;
-                    System.out.println("-----------Меню-----------");
+                    System.out.println("-----------Меню-----------"); //568866
                     System.out.println("1. Добавить;");
                     System.out.println("2. Удалить;");
                     System.out.println("3. Вернуться обратно;");
