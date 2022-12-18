@@ -117,7 +117,7 @@ public class Main {
                         for (char j = 'а'; j <= 'я'; j++) {
                             int c = 0;
                         for (int k = 0; k < ar_3.length; k++) {
-                                if (ar_3[k] == j) {
+                                if (ar_3[k] == j) {//DFGHGJKLK
                                     c++;
                                 }
                             }
